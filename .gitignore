@@ -1,0 +1,13 @@
+# Reveal.js
+.DS_Store
+.svn
+log/*.log
+tmp/**
+node_modules/
+.sass-cache
+
+# WebStorm
+.idea
+
+# Atlassian (Jira)
+atlassian-ide-plugin.xml
