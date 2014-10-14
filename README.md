@@ -1,7 +1,7 @@
 iamphonegap
 ===========
 
-Presentation slides for "I am PhoneGap (and you can too!)"
+Presentation slides for "I am PhoneGap (and so can you!)"
 
 [http://leeflannery.github.io/iamphonegap/](http://leeflannery.github.io/iamphonegap/)
 
